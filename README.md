@@ -11,6 +11,16 @@ A full-stack task management system built with **MERN (MongoDB, Express, React, 
 * **Postman Docs**: \https://documenter.getpostman.com/view/44213060/2sB3BALrzc
 
 ---
+## 🔐 Demo Credentials
+
+### 👤 Admin
+- Email: `admin@email.com`
+- Password: `1234`
+
+### 👥 User
+- Email: `user@email.com`
+- Password: `1234`
+---
 
 ## 👥 Roles & Permissions
 
