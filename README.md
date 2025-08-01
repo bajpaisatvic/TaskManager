@@ -104,7 +104,7 @@ Full Postman documentation for testing all endpoints:
 * [x] All required features implemented
 * [x] Polished modern UI with Tailwind
 * [x] Deployment done
-* 
+
 
 ---
 
