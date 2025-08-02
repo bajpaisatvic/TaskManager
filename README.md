@@ -7,7 +7,7 @@ A full-stack task management system built with **MERN (MongoDB, Express, React, 
 ## 🔗 Live Links
 
 * **Frontend**: \https://task-manager-frontend-mocha-psi.vercel.app/
-  (Note: Backend is deployed on render so sometimes it may take sometime for login as the free service gets down after inactivity)
+  (Note: Backend is deployed on render so sometimes it may take some time for login as the free service gets down after inactivity)
 * **Backend API**: \https://taskmanagerbackend-nebt.onrender.com
 * **Postman Docs**: \https://documenter.getpostman.com/view/44213060/2sB3BALrzc
 
